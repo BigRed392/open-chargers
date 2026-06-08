@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.8+dfsg-1"
     },
-    "CreationDate": "2026-06-06T18:35:51+10:00"
+    "CreationDate": "2026-06-07T13:43:38+10:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -27,9 +27,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.2,
-      "TrackToRegion": 0.5,
-      "RegionToRegion": 0.5
+      "MinLineWidth": 0.2
     }
   ],
   "FilesAttributes": [
@@ -39,28 +37,13 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "DW01 Charger-B_Cu.gbl",
-      "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "DW01 Charger-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "DW01 Charger-B_Silkscreen.gbo",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "DW01 Charger-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "DW01 Charger-B_Mask.gbs",
-      "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
